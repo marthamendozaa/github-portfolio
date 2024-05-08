@@ -37,8 +37,3 @@ Designed and coded in Kotlin the UI/UX of an Android application aimed at childr
 9. MySQL
 10. Firebase
 11. Figma
-
-
-## Reflexiones Personales
-- [Reflexión Martha Mendoza](ReflexiónMartha.mp4)
-- [Reflexión Mariel Perez](ReflexiónMariel.mp4)
