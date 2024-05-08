@@ -4,6 +4,13 @@ Bachelor’s Degree in Computer Science and Technology
 Tecnológico de Monterrey, Campus Monterrey	                                            	        	
 Graduating in December 2025
 
+## Interest Areas
+- UI/UX
+- Front-end
+- Back-end
+- Web development
+- iOS development
+
 ## Major Projects
 
 - Collaborative Environmental Initiatives Web Platform						
